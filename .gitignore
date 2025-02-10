@@ -1,0 +1,17 @@
+# node_modules
+node_modules/
+
+# .env file for sensitive environment variables
+.env
+
+# .DS_Store for macOS
+.DS_Store
+
+# npm logs
+npm-debug.log*
+
+# Debug logs
+debug.log*
+
+# Log files
+*.log
